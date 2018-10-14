@@ -59,3 +59,5 @@ Manually building:
 __NOTE__: You dont need to provide the last two flags if library is installed in the default location.
 
 We are updating our CMakelists to provide more functionality to the users.
+
+Powered by codeship
